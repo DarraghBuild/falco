@@ -105,9 +105,7 @@ function Home() {
                   className={classnames(
                     "button button--primary button--lg",
                     styles.addFocus
-                  )}
-                  href="https://heroku.com/deploy?template=https://github.com/theodo/falco/tree/1.2.1"
-                  target="_blank"
+                  )}Build.io
                 >
                   Deploy to Heroku
                 </Link>
